@@ -1,0 +1,4 @@
+github.com/webview/webview v0.0.0-20230925022559-53ea174ce79c h1:0clfc3NYmKNPjrYyM+gbihqbT5XcjnkR/brHrtD9GiY=
+github.com/webview/webview v0.0.0-20230925022559-53ea174ce79c/go.mod h1:Zk81X+8/mp/MNoeJXXK4Noydn8pcea09e00dFfAwrxg=
+github.com/webview/webview_go v0.0.0-20230901181450-5a14030a9070 h1:imZLWyo1ondeQjqfb/eHuYgFiOAYg6ugSMCnGfPTPmg=
+github.com/webview/webview_go v0.0.0-20230901181450-5a14030a9070/go.mod h1:yE65LFCeWf4kyWD5re+h4XNvOHJEXOCOuJZ4v8l5sgk=
